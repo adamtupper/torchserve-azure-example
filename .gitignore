@@ -1,0 +1,12 @@
+# Pyenv environment
+.python-version
+
+# Model weights and model archive
+resnet18-f37072fd.pth
+torchserve/resnet18.mar
+
+# Test image
+kitten_small.jpg
+
+# TorchServe logs
+logs/
